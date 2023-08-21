@@ -1,0 +1,11 @@
+body
+{
+    font-family: 'Lobster', cursive;
+}
+.footer
+{
+    text-align:right;
+    width:100%;
+    font-size:30px;
+    Position:fixed;
+}
